@@ -1,0 +1,6 @@
+C:\Users\m.valtingojer\Source\Repos\MeTracker\MeTracker\MeTracker\obj\Debug\netstandard2.0\MeTracker.csprojAssemblyReference.cache
+C:\Users\m.valtingojer\Source\Repos\MeTracker\MeTracker\MeTracker\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\m.valtingojer\Source\Repos\MeTracker\MeTracker\MeTracker\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\m.valtingojer\Source\Repos\MeTracker\MeTracker\MeTracker\obj\Debug\netstandard2.0\Views\MainView.xaml.g.cs
+C:\Users\m.valtingojer\Source\Repos\MeTracker\MeTracker\MeTracker\obj\Debug\netstandard2.0\MeTracker.AssemblyInfoInputs.cache
+C:\Users\m.valtingojer\Source\Repos\MeTracker\MeTracker\MeTracker\obj\Debug\netstandard2.0\MeTracker.AssemblyInfo.cs
